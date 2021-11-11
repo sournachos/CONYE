@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/static/css/main.bc2f0bdd.chunk.css",
+    "main.js": "/static/js/main.e39f545d.chunk.js",
+    "main.js.map": "/static/js/main.e39f545d.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.603d2375.js",
+    "runtime-main.js.map": "/static/js/runtime-main.603d2375.js.map",
+    "static/js/2.78ca2b4f.chunk.js": "/static/js/2.78ca2b4f.chunk.js",
+    "static/js/2.78ca2b4f.chunk.js.map": "/static/js/2.78ca2b4f.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.bc2f0bdd.chunk.css.map": "/static/css/main.bc2f0bdd.chunk.css.map",
+    "static/js/2.78ca2b4f.chunk.js.LICENSE.txt": "/static/js/2.78ca2b4f.chunk.js.LICENSE.txt",
+    "static/media/titre.scss": "/static/media/Brontoburger-YzlE4.3e5a314c.ttf"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.603d2375.js",
+    "static/js/2.78ca2b4f.chunk.js",
+    "static/css/main.bc2f0bdd.chunk.css",
+    "static/js/main.e39f545d.chunk.js"
+  ]
+}
